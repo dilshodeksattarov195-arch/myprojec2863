@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authcalidate",
+        "uuid": 22712179,
+        "checksum": "zswbq8"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
